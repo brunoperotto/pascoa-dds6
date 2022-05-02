@@ -1,0 +1,22 @@
+body{
+	background-color: #dddddd;
+	margin: 0px;
+}
+
+.banner{
+	background-image: url("kenny.jpg");
+	width: 100%;
+	height: 600px;
+	background-position: 0px 2500px;
+}
+
+h1{
+	font-family: arial;
+	color: #994444;
+	text-align: center;
+	font-size: 60px;
+}
+
+p{
+  	hyphens: auto;
+}
